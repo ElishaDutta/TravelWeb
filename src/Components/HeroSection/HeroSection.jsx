@@ -1,7 +1,8 @@
 import React from 'react';
 import './HeroSection.css';
-import Carousel from 'react-bootstrap/carousel';
+import Carousel from 'react-bootstrap/Carousel';
 import GreenBtn from '../GreenBtn/GreenBtn';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function HeroSection() {
   return (

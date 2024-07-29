@@ -5,9 +5,9 @@ function Footer() {
   return (
     <div className='py-3'>
         <p className='mb-0'>
-            Copyright
+            Created by
             <img src={Copyright} className='mx-1' alt="copyright" />
-            Ionut Cora 2024
+            Elisha 
         </p>
     </div>
   )

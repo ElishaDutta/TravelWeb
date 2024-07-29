@@ -14,7 +14,7 @@ function NavigationBar() {
                 <Navbar.Brand className='text-light'>
                     <Link to='/' className='text-decoration-none text-light d-flex'>
                         <img className='me-2' src={AirplaneLogo} alt="logo" />
-                        React Travel
+                         Travel
                     </Link>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls='basic-navbar-nav' className='text-light' />
